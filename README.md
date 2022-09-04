@@ -38,6 +38,6 @@ I am an analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 - :mag: Exploring the data science and data engineering world.
 
-- :zap: An avid chelsea fan, someone who love to spend my time upskilling and finding places to visit 
+- :zap: An avid chelsea fan, someone who love to spend his time upskilling and finding places to visit 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SyedIsmail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ismail-48140182/)
