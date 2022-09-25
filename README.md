@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am an analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am an aspiring analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :man_student: I completed my Master's in Business Analytics
 
 - :necktie: Experienced in customer success and operations roles
